@@ -5,7 +5,7 @@ namespace UnityStandardAssets.Vehicles.Ball
 {
     public class Ball : MonoBehaviour
     {
-        [SerializeField] private float m_MovePower = 10; // The force added to the ball to move it.
+        [SerializeField] private float m_MovePower = 40; // The force added to the ball to move it.
 
         private Rigidbody m_Rigidbody;
 

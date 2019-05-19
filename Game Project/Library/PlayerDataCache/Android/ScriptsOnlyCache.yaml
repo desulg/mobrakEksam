@@ -190,6 +190,12 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9892}
     - Class: 114
+      Script: {instanceID: 9924}
+    - Class: 114
+      Script: {instanceID: 9946}
+    - Class: 114
+      Script: {instanceID: 9984}
+    - Class: 114
       Script: {instanceID: 10058}
     - Class: 114
       Script: {instanceID: 10060}
@@ -1211,4 +1217,4 @@ ScriptsOnlyBuild:
   - Assets/Niveis/menu.unity
   - Assets/Niveis/level1.unity
   - Assets/Niveis/level2.unity
-  playerPath: C:/Users/Sten/Documents/GitHub/mobrakEksam/Game Project/test.apk
+  playerPath: C:/Users/rihon/Desktop/Eksam.apk

@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Project", "Assembly-CSharp-firstpass.csproj", "{808094AF-09AB-9CA6-B1E2-81C7D6CC423B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{808094AF-09AB-9CA6-B1E2-81C7D6CC423B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Project", "Assembly-CSharp.csproj", "{FADE6896-39B5-E00A-CB0B-59DF97FBCA52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{FADE6896-39B5-E00A-CB0B-59DF97FBCA52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Project", "Assembly-CSharp-Editor-firstpass.csproj", "{3F834D1B-9CA9-3E16-7BA7-E311145B75FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{3F834D1B-9CA9-3E16-7BA7-E311145B75FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

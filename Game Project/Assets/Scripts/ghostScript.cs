@@ -5,6 +5,7 @@ using UnityEngine.AI;
 using UnityEngine.SceneManagement;
 
 public class ghostScript : MonoBehaviour {
+    int Time = 0;
 
     public GameObject target; //this is the player
 
@@ -22,11 +23,21 @@ public class ghostScript : MonoBehaviour {
 	void Update () {
         //this is for updating the target location
         agent.destination = target.transform.position;
+        Vector3 Pos = GameObject.FindGameObjectWithTag("Player").transform.position;
+        Time += 1;
+        Debug.Log(Time);
+        if (Pos.y < 0) { onOutsideOfBounds(); }
 
-	}
+    }
+
+    public void onOutsideOfBounds(){
+        SceneManager.LoadScene("menu");
+    }
+
     //function to detect when the ghost gets the player
     public void OnCollisionEnter(Collision collision)
     {
+        
         if (collision.gameObject.tag == "Player")
             SceneManager.LoadScene("menu");
     }

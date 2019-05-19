@@ -190,10 +190,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9892}
     - Class: 114
-      Script: {instanceID: 9924}
-    - Class: 114
-      Script: {instanceID: 9946}
-    - Class: 114
       Script: {instanceID: 9984}
     - Class: 114
       Script: {instanceID: 10058}
@@ -980,7 +976,7 @@ ScriptsOnlyBuild:
     className: NetworkStartPosition
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: d9e1226a966acd815293ab059cdc61b3
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Menu

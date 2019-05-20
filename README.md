@@ -16,7 +16,7 @@ Riho: Skoori lugemine ning leveli vahetusel skoori liitmine. Highscore salvestus
 
 Ats: Koostöös Dennisega tegime alguses esialgse versiooni, millele järgnes hilisem menüü tegemine ning lisaks veel highscore paika sättimine.
 
-Sten:
+Sten: Tegelesin mängu funktsionaalsuse parandamisega telefoni jaoks.
 
 
 

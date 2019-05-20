@@ -14,7 +14,7 @@ Dennis: Kaardi ja levelite tegemine. Palli liikumine (alguses arvuti klahvidele,
 
 Riho: 
 
-Ats: 
+Ats: Koostöös Dennisega tegime alguses esialgse versiooni, millele järgnes hilisem menüü tegemine ning lisaks veel highscore paika sättimine.
 
 Sten:
 

@@ -12,7 +12,7 @@ Git projektis on README.md, kus kirjeldatakse iga liikme panus (1 lõik inimese 
 
 Dennis: Kaardi ja levelite tegemine. Palli liikumine (alguses arvuti klahvidele, et kiiremini testida saaks) ja kollide jälitamine. Järgmisesse levelisse jõudmine ja takistuste seadmine (et peategelane ei saaks piirdest ja kastidest läbi minna)
 
-Riho: 
+Riho: Skoori lugemine ning leveli vahetusel skoori liitmine. Highscore salvestus.
 
 Ats: Koostöös Dennisega tegime alguses esialgse versiooni, millele järgnes hilisem menüü tegemine ning lisaks veel highscore paika sättimine.
 

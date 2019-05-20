@@ -18,5 +18,8 @@ Ats: Koostöös Dennisega tegime alguses esialgse versiooni, millele järgnes hi
 
 Sten: Tegelesin mängu funktsionaalsuse parandamisega telefoni jaoks.
 
+Video: https://drive.google.com/file/d/1c-dRbToTybzJz8CCmtrFeiP26ulalyM2/view?usp=sharing
+
+
 
 
